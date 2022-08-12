@@ -1,0 +1,17 @@
+{
+    "name": "convertkit/wordpress-libs",
+    "description": "WordPress API, Resource and Review Request classes for use in ConvertKit WordPress Plugins",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ConvertKit",
+            "email": "support@convertkit.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"ConvertKit\\WordPress\\": "src/"}
+    },
+    "require": {}
+}
